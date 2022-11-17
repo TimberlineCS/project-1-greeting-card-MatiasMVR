@@ -1,33 +1,24 @@
-# Greeting Card
+# Project 1: Greeting Card
 
-## Project Overview
-In this project you will apply JavaScript to the DOM to create a greeting card on an HTML page.  
+* Author: Matias VR
+* Class: AP Comupter Science Principles
+* Semester: Fall 2022
 
-## Objectives
+## Overview
 
-- [ ] Create HTML elements
-- [ ] Use JavaScript to manipulate HTML elements
-- [ ] Use variables to manage data
+This Java and HTML code creates a card with a tree, a snowman, text, and playable music.
 
-## Specifications
+## Compiling and Using
 
-Create a Greeting Card on an HTML page.  Your Greeting Card should include at least 10 different HTML elements.  You must use JavaScript (only) to manipulate your elements in such a way that they come together to clearly resemble a picture.   Your Greeting Card should include a variety of colors (at least 5), text, and music. 
+To run the program, go to the file named project 1 in this computer's desktop and open the index page.
 
-An example of a Greeting Card that meets all the requirements is provided here ([GreetingCard.jpg](GreetingCard.jpg))
+## Discussion
 
-## Your Tasks
+I didn't have too much trouble throughout the project. I started with creating the divs and started coding. I started with the background card and then created the tree. I had a little bit of trouble with creating the triangles, but once I made the first one I had little trouble with the others. I then layered several circles to create the snowman and finished it. After that, I created the header and put text over it. I then used the code in the README to insert music into the card.
 
-- [ ] Locate the index.html page.  Here you will create the basic elements for your page.  You must include at least 10 different elements. 
-- [ ] Locate the App.js file.  Write code to manipulate the elements on your index.html page
-- [ ] Include music with your GreetingCard.  See the resources below for how to embed audio, 
+Overall, I only had a little trouble during the project with the triangles and the music, but the rest was fairly straighforward.
 
-	* [https://www.w3schools.com/html/html5_audio.asp](https://www.w3schools.com/html/html5_audio.asp)
-	* [https://youtu.be/1Bl2WVQGfiE](https://youtu.be/1Bl2WVQGfiE)
 
-- [ ] Document your code thoroughly as you go with comments
-- [ ] Complete the required README using specified guidelines
+## Sources used
 
-## Grade your project before you submit
-
-- [ ] Before you submit your project, grade your project against the criteria below. 
-	[Rubric.md](Rubric.md)
+- I used the link on the README to find how to insert the music into the card.
